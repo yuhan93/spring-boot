@@ -13,4 +13,9 @@ public class HelloController {
         return "hello";
     }
 
+    @GetMapping("test")
+    public String test(Model model){
+        return "test";
+    }
+
 }
