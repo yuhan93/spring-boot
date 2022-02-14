@@ -2,7 +2,7 @@ thymeleaf 템플릿 엔진
 
 \- 동작 환경
 
-[##_Image|kage@bEuanh/btrtlaN0p3h/sPwXOwDnfxS7wmBLq7BGJK/img.png|CDM|1.3|{"originWidth":617,"originHeight":314,"style":"alignCenter"}_##]
+![image](https://user-images.githubusercontent.com/56163121/153870565-7126b868-67a8-4353-9d8b-42c8827751ce.png)
 
 컨트롤러에서 리턴 값으로 문자를 반환하면 뷰 리졸버( viewResolver ) 가 화면을 찾아서 리턴한다.
 
@@ -25,8 +25,7 @@ public class HelloController {
 
 ---
 
-[##_Image|kage@z86x6/btrtlURAh24/N2oCgq3yg8ZL8uV6zKzFV0/img.png|CDM|1.3|{"originWidth":725,"originHeight":338,"style":"alignLeft"}_##]
+![image](https://user-images.githubusercontent.com/56163121/153870518-fac3d051-b196-4be6-bf6f-7d873f4dd3b3.png)
 
 ---
-
-[##_Image|kage@b2terV/btrtlorRdBJ/WKKPDFA46RYK49ZFvFmTQk/img.png|CDM|1.3|{"originWidth":313,"originHeight":124,"style":"alignCenter"}_##]
+![캡처](https://user-images.githubusercontent.com/56163121/153870420-349e393f-f524-42ef-92d7-8a82cf64d190.PNG)
