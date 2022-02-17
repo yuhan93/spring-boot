@@ -14,9 +14,9 @@ public class HelloController {
         return "hello";
     }
 
-    @GetMapping("test")
+    @GetMapping("imgList")
     public String test(Model model){
-        return "test";
+        return "imgList";
     }
 
     @GetMapping("hello-mvc")
