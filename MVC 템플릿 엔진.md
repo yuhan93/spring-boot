@@ -7,6 +7,7 @@ MVC와 템플릿 엔진
 
 
 -   Controller
+
 ![1](https://user-images.githubusercontent.com/56163121/156568650-bcca0e3e-b764-470d-aeef-856f5ef7a0b5.PNG)
 
 
